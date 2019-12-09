@@ -1,6 +1,4 @@
 const counter = document.getElementById('counter');
-const prevBtn = document.querySelector('.prevBtn');
-const nextBtn = document.querySelector('.nextBtn');
 const buttons = document.querySelectorAll('.counterBtn');
 let count = 0;
 
